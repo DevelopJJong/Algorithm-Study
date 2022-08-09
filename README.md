@@ -27,7 +27,5 @@
 [진행 상황]
 
 [2022-08-15 ~ 2022-08-22] (예정)<br></br>
-방 배정<img src="https://img.shields.io/badge/B2-ad5600?"/></a>    https://www.acmicpc.net/problem/13300</br>
-숫자의 개수<img src="https://img.shields.io/badge/B2-ad5600?"/></a>    https://www.acmicpc.net/problem/2577</br>
-다이얼<img src="https://img.shields.io/badge/B2-ad5600?"/></a>  https://www.acmicpc.net/problem/5622<br></br>
+방 배정<img src="https://img.shields.io/badge/B2-ad5600?"/></a> 
 [2022-08-22 ~ 2022-08-29] (예정)<br></br>
