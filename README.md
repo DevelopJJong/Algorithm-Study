@@ -102,10 +102,10 @@ ex) [1주차] <홍길동> 3문제 <br/><br/>
 |주차|문제|기간|체크|
 |--|---|---|---|
 |1주차|[알파벳 개수](https://www.acmicpc.net/problem/10808)<img src="https://img.shields.io/badge/B-ad5600?"/>, [숫자의 개수](https://www.acmicpc.net/problem/2577)<img src="https://img.shields.io/badge/B-ad5600?"/>, [개수 세기](https://www.acmicpc.net/problem/10807)<img src="https://img.shields.io/badge/B-ad5600?"/>, [방번호](https://www.acmicpc.net/problem/1475)<img src="https://img.shields.io/badge/S-435f7a?"/>|08/15 ~ 08/21|<img src="https://img.shields.io/badge/-%EC%98%88%EC%A0%95-red"/>
-|2주차|미정|08/22 ~ 08/28|<img src="https://img.shields.io/badge/-%EC%98%88%EC%A0%95-red"/|
-|3주차|미정|08/29 ~ 09/04|<img src="https://img.shields.io/badge/-%EC%98%88%EC%A0%95-red"/|
-|4주차|미정|09/05 ~ 09/11|<img src="https://img.shields.io/badge/-%EC%98%88%EC%A0%95-red"/|
-|5주차|미정|09/12 ~ 09/18|<img src="https://img.shields.io/badge/-%EC%98%88%EC%A0%95-red"/|
-|6주차|미정|09/19 ~ 09/25|<img src="https://img.shields.io/badge/-%EC%98%88%EC%A0%95-red"/|
-|7주차|미정|09/26 ~ 10/02|<img src="https://img.shields.io/badge/-%EC%98%88%EC%A0%95-red"/|
-|8주차|미정|10/03 ~ 10/09|<img src="https://img.shields.io/badge/-%EC%98%88%EC%A0%95-red"/|
+|2주차|미정|08/22 ~ 08/28|<img src="https://img.shields.io/badge/-%EC%98%88%EC%A0%95-red"/>|
+|3주차|미정|08/29 ~ 09/04|<img src="https://img.shields.io/badge/-%EC%98%88%EC%A0%95-red"/>|
+|4주차|미정|09/05 ~ 09/11|<img src="https://img.shields.io/badge/-%EC%98%88%EC%A0%95-red"/>|
+|5주차|미정|09/12 ~ 09/18|<img src="https://img.shields.io/badge/-%EC%98%88%EC%A0%95-red"/>|
+|6주차|미정|09/19 ~ 09/25|<img src="https://img.shields.io/badge/-%EC%98%88%EC%A0%95-red"/>|
+|7주차|미정|09/26 ~ 10/02|<img src="https://img.shields.io/badge/-%EC%98%88%EC%A0%95-red"/>|
+|8주차|미정|10/03 ~ 10/09|<img src="https://img.shields.io/badge/-%EC%98%88%EC%A0%95-red"/>|
